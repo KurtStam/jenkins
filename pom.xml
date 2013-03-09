@@ -48,6 +48,7 @@ THE SOFTWARE.
 
   <modules>
     <module>core</module>
+    <module>maven-interceptors</module>
     <module>maven-plugin</module>
     <module>ui-samples-plugin</module>
     <module>war</module>

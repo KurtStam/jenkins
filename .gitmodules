@@ -1,0 +1,3 @@
+[submodule "maven-interceptors"]
+	path = maven-interceptors
+	url = git://github.com/siasia/maven-interceptors.git
